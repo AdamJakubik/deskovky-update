@@ -1,0 +1,9 @@
+Monopoly;true;3
+Člověče nezlob se;true;2
+Dostihy a sázky;false;3
+Šachy;true;1
+Activity;false;1
+Scrabble;false;3
+Double;true;2
+Osadníci z katanu;true;2
+AZ kvíz;false;1
